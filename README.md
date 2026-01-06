@@ -121,7 +121,7 @@ Update the GPIO pin mappings at the top of each script to match your wiring conf
   - Plan: Integrate obstacle detection using ultrasonic or LiDAR sensors and implement a basic mapping algorithm for navigation.
 
 - **Testing Required**
-  - Unified control script and torque control need field testing.
-  - Sensor modules need to be mounted and tested for real-time response.
+  - Unified control script and torque control need field testing
+  - Sensor modules need to be mounted and tested for real-time response
 
 
